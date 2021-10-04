@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*---------------------------------------------------------------------
     File Name: style.css
 ---------------------------------------------------------------------*/
@@ -1644,7 +1644,7 @@ input[type="radio"] .styled:checked+label::after {
 ---------------------------------------------------------------------*/
 
 .header {
-	background: #0fc690;
+	background: #51709C;
 	padding: 40px 0px;
 	padding-bottom: 35px;
 }
@@ -1681,8 +1681,8 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption a {
 	text-transform: uppercase;
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #51709C solid 1px;
+	background: #51709C;
 	width: 196px;
 	padding: 12px 0;
 	display: inline-block;
@@ -1757,7 +1757,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #51709C solid 1px;
 	width: 410px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -1793,8 +1793,8 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .about .img-box a:hover {
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #51709C solid 1px;
+	background: #51709C;
 }
 
 
@@ -1854,7 +1854,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #51709C solid 1px;
 	width: 210px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -1870,7 +1870,7 @@ input[type="radio"] .styled:checked+label::after {
 	text-align: center;
 	display: flex;
 	justify-content: center;
-	background: #0fc690d6;
+	background: #51709Cd6;
 	align-items: center;
 	margin: 0 15px;
 }
@@ -1987,7 +1987,7 @@ img.zoom {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-	background: #0fc690;
+	background: #51709C;
 	color: #fff;
 }
 
@@ -2021,14 +2021,14 @@ img.zoom {
 }
 
 .read-more a:hover {
-	background: #0fc690;
+	background: #51709C;
 }
 
 
 /** end download section **/
 
 .testimonial {
-	background: #0fc690;
+	background: #51709C;
 	padding: 60px 0px;
 }
 
@@ -2066,7 +2066,7 @@ img.zoom {
 }
 
 .carousel-caption.relat h3 {
-	color: #0fc690;
+	color: #51709C;
 	font-size: 20px;
 	text-transform: uppercase;
 	line-height: 20px;
@@ -2090,7 +2090,7 @@ img.zoom {
 #testimonial_slider .carousel-control-prev:focus,
 #testimonial_slider .carousel-control-next:focus {
 	color: #fff;
-	background: #0fc690;
+	background: #51709C;
 	width: 50px;
 	height: 50px;
 }
@@ -2164,8 +2164,8 @@ img.zoom {
 }
 
 .testimonial .contact .send:hover {
-	background-color: #0fc690;
-	border: #0fc690 solid 1px;
+	background-color: #51709C;
+	border: #51709C solid 1px;
 	color: #fff;
 }
 
@@ -2174,7 +2174,7 @@ img.zoom {
 }
 
 .footer {
-	background: #023023;
+	background: #71839B;
 	padding-top: 55px;
 }
 
@@ -2279,8 +2279,8 @@ ul.contant_icon li img {
 
 .footer .address .submit-btn {
 	padding: 5px 29px;
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #51709C solid 1px;
+	background: #51709C;
 	color: #fff;
 	font-weight: 500;
 	font-size: 20px;
@@ -2306,7 +2306,7 @@ ul.contant_icon li img {
 }
 
 .copyright a:hover {
-	color: #0fc690
+	color: #51709C
 }
 
 
@@ -2388,7 +2388,7 @@ ul.contant_icon li img {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-	background: #0fc690;
+	background: #51709C;
 	color: #fff;
 }
 
@@ -4050,7 +4050,7 @@ input[type="radio"] .styled:checked+label::after {
 ---------------------------------------------------------------------*/
 
 .header {
-	background: #0fc690;
+	background: #51709C;
 	padding: 40px 0px;
 	padding-bottom: 35px;
 }
@@ -4087,8 +4087,8 @@ input[type="radio"] .styled:checked+label::after {
 
 .banner-main .carousel-caption a {
 	text-transform: uppercase;
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #51709C solid 1px;
+	background: #51709C;
 	width: 196px;
 	padding: 12px 0;
 	display: inline-block;
@@ -4163,7 +4163,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #51709C solid 1px;
 	width: 410px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -4199,8 +4199,8 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .about .img-box a:hover {
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #51709C solid 1px;
+	background: #51709C;
 }
 
 
@@ -4260,7 +4260,7 @@ input[type="radio"] .styled:checked+label::after {
 	font-weight: bold;
 	color: #050303;
 	line-height: 46px;
-	border-bottom: #0fc690 solid 1px;
+	border-bottom: #51709C solid 1px;
 	width: 210px;
 	margin: 0 auto;
 	margin-bottom: 0px;
@@ -4276,7 +4276,7 @@ input[type="radio"] .styled:checked+label::after {
 	text-align: center;
 	display: flex;
 	justify-content: center;
-	background: #0fc690d6;
+	background: #51709Cd6;
 	align-items: center;
 	margin: 0 15px;
 }
@@ -4393,7 +4393,7 @@ img.zoom {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-	background: #0fc690;
+	background: #51709C;
 	color: #fff;
 }
 
@@ -4427,14 +4427,14 @@ img.zoom {
 }
 
 .read-more a:hover {
-	background: #0fc690;
+	background: #51709C;
 }
 
 
 /** end download section **/
 
 .testimonial {
-	background: #0fc690;
+	background: #51709C;
 	padding: 60px 0px;
 }
 
@@ -4472,7 +4472,7 @@ img.zoom {
 }
 
 .carousel-caption.relat h3 {
-	color: #0fc690;
+	color: #51709C;
 	font-size: 20px;
 	text-transform: uppercase;
 	line-height: 20px;
@@ -4496,7 +4496,7 @@ img.zoom {
 #testimonial_slider .carousel-control-prev:focus,
 #testimonial_slider .carousel-control-next:focus {
 	color: #fff;
-	background: #0fc690;
+	background: #51709C;
 	width: 50px;
 	height: 50px;
 }
@@ -4570,8 +4570,8 @@ img.zoom {
 }
 
 .testimonial .contact .send:hover {
-	background-color: #0fc690;
-	border: #0fc690 solid 1px;
+	background-color: #51709C;
+	border: #51709C solid 1px;
 	color: #fff;
 }
 
@@ -4580,7 +4580,7 @@ img.zoom {
 }
 
 .footer {
-	background: #023023;
+	background: #71839B;
 	padding-top: 55px;
 }
 
@@ -4685,8 +4685,8 @@ ul.contant_icon li img {
 
 .footer .address .submit-btn {
 	padding: 5px 29px;
-	border: #0fc690 solid 1px;
-	background: #0fc690;
+	border: #51709C solid 1px;
+	background: #51709C;
 	color: #fff;
 	font-weight: 500;
 	font-size: 20px;
@@ -4697,23 +4697,7 @@ ul.contant_icon li img {
 	border: #000 solid 1px;
 }
 
-.copyright {
-	background-color: #fff;
-	padding: 20px 0px;
-	;
-	margin-top: 55px;
-}
 
-.copyright p {
-	color: #000;
-	font-size: 18px;
-	line-height: 22px;
-	text-align: center;
-}
-
-.copyright a:hover {
-	color: #0fc690
-}
 
 
 /*---------------------------------------------------------------------
@@ -4794,7 +4778,7 @@ ul.contant_icon li img {
 #myCarousel .carousel-control-next:hover,
 #myCarousel .carousel-control-prev:focus,
 #myCarousel .carousel-control-next:focus {
-	background: #0fc690;
+	background: #51709C;
 	color: #fff;
 }
 
@@ -4810,5 +4794,5 @@ ul.contant_icon li img {
 	left: 10px;
 	top: inherit;
 	bottom: 10px;
->>>>>>> bfa78d4aca081b732fb2731aaa85e338f694404c
+
 }
