@@ -2005,6 +2005,7 @@ img.zoom {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	margin-top: 10px;
 }
 
 .read-more a {
@@ -2397,6 +2398,7 @@ ul.contant_icon li img {
 	left: 82px;
 	bottom: 10px;
 	top: inherit;
+	
 }
 
 #myCarousel a.carousel-control-next {
